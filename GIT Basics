@@ -1,5 +1,22 @@
 Mastering version control systems like Git to manage code repositories efficiently, especially using GitHub and Gitlab
 
+What is Git?
+Definition and origins
+Key features
+Installation and Setup
+Installing Git on different platforms
+Basic configuration
+Creating a Git Repository
+Initializing a local repository
+Cloning an existing repository
+Basic Git Commands
+git init, git clone
+git add, git commit
+git status, git log
+Branching and Merging
+Creating and switching branches
+Merging branches
+
 ## Pull Request
 a pull request is a way for contributors to submit changes to a project for review and inclusion by the maintainers. This is an important part of the collaborative development process in open source projects.
 
